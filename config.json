@@ -1,0 +1,17 @@
+{
+    "replacement":
+    {
+        "symbols":
+        [
+            "/",
+            "  ",
+            "_",
+            "-"
+        ],
+        "words":
+        [
+            "example",
+            "example1"
+        ]
+    }
+}
